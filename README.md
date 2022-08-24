@@ -36,6 +36,7 @@ When you are finished please submit a .zip file with your entire project (node_m
  * Your app should have a text input that allows a user to enter an Auther name in the format `"{First name}, {Last name}"`
  * Your app should fetch data on books that published by Auther, using the (https://openlibrary.org/search/authors.json?q=bill%20gates) (see more below)
  * Your app should display these books as a list, you can include whatever information about each books you would like
+ * User Redux for state mgmt.
  * Your app should run on iOS or Android
 
 ## 4. Bonus Features
